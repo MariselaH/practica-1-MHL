@@ -1,7 +1,7 @@
 # practica-1-MHL
-Practica 1. Sistemas Distribuidos
-Pasos para ejecutar la aplicación: 
-git clone
-npm install
-npm install multer --save
+Practica 1. Sistemas Distribuidos <br>
+Pasos para ejecutar la aplicación: <br>
+git clone <br>
+npm install <br>
+npm install multer --save <br>
 npm start
